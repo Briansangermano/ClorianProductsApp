@@ -1,0 +1,24 @@
+.container-title {
+    display: flex;
+    padding: 0 20px 0 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-title {
+    color: #4894ABD9;
+}
+
+.empty-container {
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.empty-text {
+    margin: 5px;
+    font-weight: 500;
+    font-size: small;
+}

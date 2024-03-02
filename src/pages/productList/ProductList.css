@@ -1,0 +1,20 @@
+.container-product-list {
+    margin-top: 135px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.product-container {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 60px 60px 60px;
+}
+
+.empty-page-container {
+    margin-top: 150px;
+}

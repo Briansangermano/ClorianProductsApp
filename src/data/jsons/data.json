@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Cotton Shirt",
+        "description": "Long-sleeved shirt, white color, made of high-quality cotton.",
+        "validityDate": "2024-12-31",
+        "cost": 25.99
+    },
+    {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Men's jeans, classic straight cut style. We have all the colors, you can choose.",
+        "validityDate": "2024-12-31",
+        "cost": 39.99
+    },
+    {
+        "id": 3,
+        "name": "Sports Shoes",
+        "description": "Running sports shoes, designed to provide comfort and support.",
+        "validityDate": "2024-06-30",
+        "cost": 59.99
+    },
+    {
+        "id": 4,
+        "name": "Water-Resistant Backpack",
+        "description": "Spacious backpack with multiple compartments, water-resistant and durable.",
+        "validityDate": "2024-12-31",
+        "cost": 49.99
+    },
+    {
+        "id": 5,
+        "name": "Analog Wristwatch",
+        "description": "Analog wristwatch for men, with genuine leather strap.",
+        "validityDate": "2023-12-31",
+        "cost": 79.99
+    },
+    {
+        "id": 6,
+        "name": "Fiction Book",
+        "description": "Fiction bestseller, an exciting story of suspense and mystery.",
+        "validityDate": "2024-12-31",
+        "cost": 14.99
+    },
+    {
+        "id": 7,
+        "name": "Kitchen Utensil Set",
+        "description": "Stainless steel kitchen utensil set, including spoons, spatulas, and more.",
+        "validityDate": "2024-12-31",
+        "cost": 29.99
+    },
+    {
+        "id": 8,
+        "name": "Compact Digital Camera",
+        "description": "High-resolution compact digital camera, perfect for capturing special moments.",
+        "validityDate": "2024-12-31",
+        "cost": 149.99
+    },
+    {
+        "id": 9,
+        "name": "Wireless Headphones",
+        "description": "Wireless headphones with noise cancellation, ideal for enjoying music without cables.",
+        "validityDate": "2024-12-31",
+        "cost": 99.99
+    },
+    {
+        "id": 10,
+        "name": "Smartphone",
+        "description": "Latest-generation smartphone, with touchscreen and high-resolution camera.",
+        "validityDate": "2024-12-31",
+        "cost": 599.99
+    },
+    {
+        "id": 11,
+        "name": "LED Desk Lamp",
+        "description": "LED desk lamp with adjustable arm, perfect for illuminating your workspace.",
+        "validityDate": "2024-12-31",
+        "cost": 34.99
+    },
+    {
+        "id": 12,
+        "name": "Non-Stick Cookware Set",
+        "description": "High-quality non-stick cookware set, ideal for cooking with ease.",
+        "validityDate": "2024-12-31",
+        "cost": 69.99
+    },
+    {
+        "id": 13,
+        "name": "Large Travel Suitcase",
+        "description": "Large travel suitcase with spinner wheels and retractable handle, ideal for long trips.",
+        "validityDate": "2024-12-31",
+        "cost": 89.99
+    },
+    {
+        "id": 14,
+        "name": "Mechanical Gaming Keyboard",
+        "description": "Mechanical gaming keyboard with LED backlighting and programmable keys.",
+        "validityDate": "2024-12-31",
+        "cost": 79.99
+    },
+    {
+        "id": 15,
+        "name": "Drip Coffee Maker",
+        "description": "Programmable drip coffee maker with glass carafe and keep-warm function.",
+        "validityDate": "2024-12-31",
+        "cost": 49.99
+    },
+    {
+        "id": 16,
+        "name": "Air Purifier",
+        "description": "Air purifier with HEPA filter, ideal for removing allergens and improving air quality.",
+        "validityDate": "2024-12-31",
+        "cost": 129.99
+    },
+    {
+        "id": 17,
+        "name": "Bath Towel Set",
+        "description": "Soft and absorbent bath towel set, made of premium cotton.",
+        "validityDate": "2023-12-31",
+        "cost": 19.99
+    },
+    {
+        "id": 18,
+        "name": "Basic Tool Set",
+        "description": "Basic tool set including screwdrivers, pliers, and hammer.",
+        "validityDate": "2024-12-31",
+        "cost": 39.99
+    },
+    {
+        "id": 19,
+        "name": "Portable Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with high-quality sound, perfect for taking music anywhere.",
+        "validityDate": "2024-12-31",
+        "cost": 29.99
+    },
+    {
+        "id": 20,
+        "name": "Portable Charger",
+        "description": "Compact portable charger with capacity to charge mobile devices multiple times.",
+        "validityDate": "2024-12-31",
+        "cost": 49.99
+    }
+]

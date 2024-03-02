@@ -1,0 +1,30 @@
+.product-container-card {
+    height: calc(100% - 50px);
+    padding-right: 10px;
+    overflow-x: scroll;
+}
+
+.container-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+    border-radius: 5px;
+    margin: 0 15px 20px 0;
+}
+
+.info-container {
+    overflow: hidden;
+}
+
+.main-total {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 50px;
+    background-color: #FFF;
+    box-shadow: 0 -2px 8px rgba(0,0,0,.16);
+    padding: 0 30px;
+    margin-top: 20px;
+}

@@ -1,0 +1,8 @@
+.expired-container {
+    display: flex;
+    justify-content: center;
+}
+.expired-text {
+    color: #990000;
+    font-size: small;
+}

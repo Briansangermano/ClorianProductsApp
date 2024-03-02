@@ -1,0 +1,22 @@
+.main-header {
+    display: flex;
+    background-color: #4A4B8C26;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFFFFF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+}
+
+.container-button {
+    height: 38px;
+    margin-right: 30px;
+}
+
+.sh-standard-logo {
+    margin: 20px 40px;
+}
